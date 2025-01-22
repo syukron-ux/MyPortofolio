@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web Development &#8211; Muhammad Syukron Azkiyak</title>
+	<atom:link href="https://syukron-ux.github.io/MyPortofolio/category/web-development/feed/" rel="self" type="application/rss+xml" />
+	<link>https://syukron-ux.github.io/MyPortofolio</link>
+	<description>Menjadi Lebih Baik</description>
+	<lastBuildDate>Sun, 19 Jan 2025 13:45:10 +0000</lastBuildDate>
+	<language>id</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>What Is the best web</title>
+		<link>https://syukron-ux.github.io/MyPortofolio/what-is-the-best-web/</link>
+					<comments>https://syukron-ux.github.io/MyPortofolio/what-is-the-best-web/#respond</comments>
+		
+		<dc:creator><![CDATA[Syukron]]></dc:creator>
+		<pubDate>Sun, 06 Jan 2019 11:48:56 +0000</pubDate>
+				<category><![CDATA[Web Development]]></category>
+		<guid isPermaLink="false">http://demo.acmethemes.com/portfolio-web/?p=111</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://syukron-ux.github.io/MyPortofolio/what-is-the-best-web/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Design Cheatsheet 2018</title>
+		<link>https://syukron-ux.github.io/MyPortofolio/design-cheatsheet-2018/</link>
+					<comments>https://syukron-ux.github.io/MyPortofolio/design-cheatsheet-2018/#respond</comments>
+		
+		<dc:creator><![CDATA[Syukron]]></dc:creator>
+		<pubDate>Sun, 06 Jan 2019 11:47:37 +0000</pubDate>
+				<category><![CDATA[Web Development]]></category>
+		<guid isPermaLink="false">http://demo.acmethemes.com/portfolio-web/?p=107</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://syukron-ux.github.io/MyPortofolio/design-cheatsheet-2018/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
